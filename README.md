@@ -87,37 +87,37 @@ class AboutMe:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🏥 **Healthcare Pulse** | Dockerized disease surveillance pipeline with Spark ML forecasting | React, Flask, Spark, PostgreSQL, Docker |
+| 🏥 **healthcare-pulse** | Dockerized disease surveillance pipeline with Spark ML forecasting | React, Flask, Spark, PostgreSQL, Docker |
 | 🤖 **DevPilot-AI** | Local-first AI-powered GitHub portfolio growth agent | Python, FastAPI, React, Docker, n8n |
-| 🏷️ **PakDeals Finder** | AI deal aggregator across 4 Pakistani e-commerce platforms | Python, Flask, React, LangGraph, Groq |
-| 📝 **Noteflow** | Offline-first PWA notes app with rich-text, drawing & AI assist | React, PWA, IndexedDB, Zustand |
-| 🏪 **Foam Shop POS** | Flutter POS with real-time inventory & customer/supplier ledgers | Flutter, Firebase, Riverpod, Dart |
-| 📋 **Opportunity Dashboard** | Internship & job opportunity CRUD with analytics | Streamlit, PostgreSQL, Docker, Plotly |
-| 📊 **Telco Churn Prediction** | 3-model ML comparison with SHAP & FastAPI serving | XGBoost, FastAPI, SHAP, React |
-| 💬 **BDA Opinion Mining Capstone** | Kafka + PySpark + Hugging Face sentiment pipeline | Kafka, PySpark, Spark MLlib, React |
-| 📊 **Job Market ETL Pipeline** | Airflow + KNIME + n8n job market data pipeline | Airflow, KNIME, n8n, Flask, Docker |
-| 🔄 **n8n Workflow Automation** | Calendar-to-Telegram/WhatsApp AI notifications | n8n, OpenRouter AI, Google APIs |
-| 📈 **Retail Demand Forecast Demo** | 4-model forecast comparison with synthetic data | FastAPI, Prophet, XGBoost, React |
-| 🛒 **Webscraper.io Scraper** | Modular scraper targeting WebScraper.io test site | Python, BeautifulSoup, Pandas |
-| 📝 **Student Todo DApp** | Decentralized task management on Ethereum | Solidity, Web3.js, React, Truffle |
-| 🗳️ **Ethereum Voting DApp** | Two-candidate voting system on local Ganache | Solidity, Web3.js, Truffle |
+| 🏷️ **pakdeals-finder** | AI deal aggregator across 4 Pakistani e-commerce platforms | Python, Flask, React, LangGraph, Groq |
+| 📝 **noteflow** | Offline-first PWA notes app with rich-text, drawing & AI assist | React, PWA, IndexedDB, Zustand |
+| 🏪 **foam-shop-pos** | Flutter POS with real-time inventory & customer/supplier ledgers | Flutter, Firebase, Riverpod, Dart |
+| 📋 **streamlit-postgres-opportunity-dashboard** | Internship & job opportunity CRUD with analytics | Streamlit, PostgreSQL, Docker, Plotly |
+| 📊 **telco-churn-prediction** | 3-model ML comparison with SHAP & FastAPI serving | XGBoost, FastAPI, SHAP, React |
+| 💬 **bda-opinion-mining-capstone** | Kafka + PySpark + Hugging Face sentiment pipeline | Kafka, PySpark, Spark MLlib, React |
+| 📊 **job-market-etl-pipeline** | Airflow + KNIME + n8n job market data pipeline | Airflow, KNIME, n8n, Flask, Docker |
+| 🔄 **n8n-workflow-automation-assignment** | Calendar-to-Telegram/WhatsApp AI notifications | n8n, OpenRouter AI, Google APIs |
+| 📈 **retail-demand-forecast-demo** | 4-model forecast comparison with synthetic data | FastAPI, Prophet, XGBoost, React |
+| 🛒 **webscraper-io-scraper** | Modular scraper targeting WebScraper.io test site | Python, BeautifulSoup, Pandas |
+| 📝 **student-todo-dapp** | Decentralized task management on Ethereum | Solidity, Web3.js, React, Truffle |
+| 🗳️ **ethereum-voting-dapp** | Two-candidate voting system on local Ganache | Solidity, Web3.js, Truffle |
 
 <div align="center">
 
-[![Healthcare Pulse Repo](https://img.shields.io/badge/Healthcare_Pulse-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/healthcare-pulse)
-[![DevPilot-AI Repo](https://img.shields.io/badge/DevPilot_AI-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/DevPilot-AI)
-[![PakDeals Finder Repo](https://img.shields.io/badge/PakDeals_Finder-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/pakdeals-finder)
-[![Noteflow Repo](https://img.shields.io/badge/Noteflow-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/noteflow)
-[![Foam Shop POS Repo](https://img.shields.io/badge/Foam_Shop_POS-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/foam-shop-pos)
-[![Opportunity Dashboard Repo](https://img.shields.io/badge/Opportunity_Dashboard-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/streamlit-postgres-opportunity-dashboard)
-[![Telco Churn Prediction Repo](https://img.shields.io/badge/Telco_Churn-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/telco-churn-prediction)
-[![BDA Opinion Mining Repo](https://img.shields.io/badge/BDA_Opinion_Mining-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/bda-opinion-mining-capstone)
-[![Job Market ETL Pipeline Repo](https://img.shields.io/badge/Job_Market_ETL-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/job-market-etl-pipeline)
-[![n8n Workflow Automation Repo](https://img.shields.io/badge/n8n_Workflows-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/n8n-workflow-automation-assignment)
-[![Retail Forecast Demo Repo](https://img.shields.io/badge/Retail_Forecast-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/retail-demand-forecast-demo)
-[![Webscraper.io Scraper Repo](https://img.shields.io/badge/Webscraper_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/webscraper-io-scraper)
-[![Student Todo DApp Repo](https://img.shields.io/badge/Student_Todo_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/student-todo-dapp)
-[![Ethereum Voting DApp Repo](https://img.shields.io/badge/Ethereum_Voting_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/ethereum-voting-dapp)
+[![healthcare-pulse](https://img.shields.io/badge/healthcare--pulse-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/healthcare-pulse)
+[![DevPilot-AI](https://img.shields.io/badge/DevPilot--AI-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/DevPilot-AI)
+[![pakdeals-finder](https://img.shields.io/badge/pakdeals--finder-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/pakdeals-finder)
+[![noteflow](https://img.shields.io/badge/noteflow-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/noteflow)
+[![foam-shop-pos](https://img.shields.io/badge/foam--shop--pos-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/foam-shop-pos)
+[![streamlit-postgres-opportunity-dashboard](https://img.shields.io/badge/opportunity--dashboard-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/streamlit-postgres-opportunity-dashboard)
+[![telco-churn-prediction](https://img.shields.io/badge/telco--churn--prediction-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/telco-churn-prediction)
+[![bda-opinion-mining-capstone](https://img.shields.io/badge/bda--opinion--mining--capstone-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/bda-opinion-mining-capstone)
+[![job-market-etl-pipeline](https://img.shields.io/badge/job--market--etl--pipeline-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/job-market-etl-pipeline)
+[![n8n-workflow-automation-assignment](https://img.shields.io/badge/n8n--workflows-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/n8n-workflow-automation-assignment)
+[![retail-demand-forecast-demo](https://img.shields.io/badge/retail--forecast--demo-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/retail-demand-forecast-demo)
+[![webscraper-io-scraper](https://img.shields.io/badge/webscraper--io--scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/webscraper-io-scraper)
+[![student-todo-dapp](https://img.shields.io/badge/student--todo--dapp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/student-todo-dapp)
+[![ethereum-voting-dapp](https://img.shields.io/badge/ethereum--voting--dapp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/ethereum-voting-dapp)
 
 </div>
 
