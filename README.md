@@ -87,41 +87,37 @@ class AboutMe:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🏥 **Healthcare Pulse** | Disease surveillance & forecast dashboard with distributed processing | React, Flask, Spark, PostgreSQL, Docker |
-| 🤖 **DevPilot-AI** | Local-first AI-powered GitHub portfolio growth agent with 12 AI modules | Python, LangChain, FastAPI, React, Docker |
-| 🏷️ **PakDeals Finder Pro** | AI deal aggregator across 4 e-commerce platforms with LLM ranking & RAG | Python, FastAPI, React, RAG, PostgreSQL |
-| 🏥 **MedAIx** | Cloud-mobile healthcare safety platform with QR medication verification | Flutter, FastAPI, QR Verification |
-| 🏪 **Foam Shop ERP** | Retail inventory & accounting system with double-entry WAC engine | Flutter, Firebase, Dart |
-| 📋 **Opportunity Dashboard** | Internship & job opportunity CRUD platform with interactive analytics | Streamlit, PostgreSQL, Docker, Plotly |
-| 📊 **Churn Prediction** | End-to-end ML pipeline with SHAP explainability & React dashboard | Python, XGBoost, FastAPI, React, Docker |
-| 💬 **BDA OpinionMining** | Real-time opinion mining pipeline with streaming sentiment analysis | Kafka, PySpark, Hugging Face, React, Docker |
-| 📝 **Noteflow** | Sleek PWA notes app with rich-text editing, voice recording & AI assistance | React, PWA, IndexedDB, Tailwind |
-| 📊 **Job Market Analytics** | End-to-end data pipeline for job market intelligence | Airflow, KNIME, n8n, Flask, Docker |
-| 🔄 **n8n AI Workflows** | AI-powered workflow automation with OpenRouter AI & Google APIs | n8n, OpenRouter AI, Google APIs |
-| 💰 **Expense Splitter** | Telegram bot for roommate expense tracking with debt simplification | n8n, Telegram, Google Sheets, AI |
-| 📈 **Retail Demand Forecast** | Time-series forecasting model for retail demand prediction | Python, Prophet, Pandas |
-| 🛒 **E-Commerce Scraper** | Modular web scraper for e-commerce product data collection & cleaning | Python, BeautifulSoup, Pandas |
-| 📝 **Student Todo DApp** | Decentralized task management on Ethereum blockchain | Solidity, Web3.js, React, Truffle |
-| 🗳️ **Election DApp** | Secure, transparent voting system on Ethereum | Solidity, Web3.js, Truffle |
+| 🏥 **Healthcare Pulse** | Dockerized disease surveillance pipeline with Spark ML forecasting | React, Flask, Spark, PostgreSQL, Docker |
+| 🤖 **DevPilot-AI** | Local-first AI-powered GitHub portfolio growth agent | Python, FastAPI, React, Docker, n8n |
+| 🏷️ **PakDeals Finder** | AI deal aggregator across 4 Pakistani e-commerce platforms | Python, Flask, React, LangGraph, Groq |
+| 📝 **Noteflow** | Offline-first PWA notes app with rich-text, drawing & AI assist | React, PWA, IndexedDB, Zustand |
+| 🏪 **Foam Shop POS** | Flutter POS with real-time inventory & customer/supplier ledgers | Flutter, Firebase, Riverpod, Dart |
+| 📋 **Opportunity Dashboard** | Internship & job opportunity CRUD with analytics | Streamlit, PostgreSQL, Docker, Plotly |
+| 📊 **Telco Churn Prediction** | 3-model ML comparison with SHAP & FastAPI serving | XGBoost, FastAPI, SHAP, React |
+| 💬 **BDA Opinion Mining Capstone** | Kafka + PySpark + Hugging Face sentiment pipeline | Kafka, PySpark, Spark MLlib, React |
+| 📊 **Job Market ETL Pipeline** | Airflow + KNIME + n8n job market data pipeline | Airflow, KNIME, n8n, Flask, Docker |
+| 🔄 **n8n Workflow Automation** | Calendar-to-Telegram/WhatsApp AI notifications | n8n, OpenRouter AI, Google APIs |
+| 📈 **Retail Demand Forecast Demo** | 4-model forecast comparison with synthetic data | FastAPI, Prophet, XGBoost, React |
+| 🛒 **Webscraper.io Scraper** | Modular scraper targeting WebScraper.io test site | Python, BeautifulSoup, Pandas |
+| 📝 **Student Todo DApp** | Decentralized task management on Ethereum | Solidity, Web3.js, React, Truffle |
+| 🗳️ **Ethereum Voting DApp** | Two-candidate voting system on local Ganache | Solidity, Web3.js, Truffle |
 
 <div align="center">
 
 [![Healthcare Pulse Repo](https://img.shields.io/badge/Healthcare_Pulse-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/healthcare-pulse)
 [![DevPilot-AI Repo](https://img.shields.io/badge/DevPilot_AI-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/DevPilot-AI)
-[![PakDeals Finder Pro Repo](https://img.shields.io/badge/PakDeals_Finder_Pro-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/pakdeals-finder)
-[![MedAIx Repo](https://img.shields.io/badge/MedAIx-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/UCP_Event_Tracker)
-[![Foam Shop ERP Repo](https://img.shields.io/badge/Foam_Shop_ERP-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/foam-shop-erp)
-[![Opportunity Dashboard Repo](https://img.shields.io/badge/Opportunity_Dashboard-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/streamlit-postgres-opportunity-dashboard)
-[![Churn Prediction Repo](https://img.shields.io/badge/Churn_Prediction-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/churn-prediction-pipeline)
-[![BDA OpinionMining Repo](https://img.shields.io/badge/BDA_OpinionMining-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/BDA-OpinionMining)
+[![PakDeals Finder Repo](https://img.shields.io/badge/PakDeals_Finder-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/pakdeals-finder)
 [![Noteflow Repo](https://img.shields.io/badge/Noteflow-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/noteflow)
-[![Job Market Analytics Repo](https://img.shields.io/badge/Job_Market_Analytics-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/Job-Market-Analytics-Pipeline)
-[![n8n AI Workflows Repo](https://img.shields.io/badge/n8n_AI_Workflows-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/n8n-ai-workflow-automation)
-[![Expense Splitter Repo](https://img.shields.io/badge/Expense_Splitter-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/n8n-roommate-expense-splitter)
-[![Retail Forecast Repo](https://img.shields.io/badge/Retail_Forecast-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/retail-demand-forecast)
-[![E-Commerce Scraper Repo](https://img.shields.io/badge/E_Commerce_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/Web-Scraper-Ecommerce)
+[![Foam Shop POS Repo](https://img.shields.io/badge/Foam_Shop_POS-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/foam-shop-pos)
+[![Opportunity Dashboard Repo](https://img.shields.io/badge/Opportunity_Dashboard-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/streamlit-postgres-opportunity-dashboard)
+[![Telco Churn Prediction Repo](https://img.shields.io/badge/Telco_Churn-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/telco-churn-prediction)
+[![BDA Opinion Mining Repo](https://img.shields.io/badge/BDA_Opinion_Mining-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/bda-opinion-mining-capstone)
+[![Job Market ETL Pipeline Repo](https://img.shields.io/badge/Job_Market_ETL-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/job-market-etl-pipeline)
+[![n8n Workflow Automation Repo](https://img.shields.io/badge/n8n_Workflows-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/n8n-workflow-automation-assignment)
+[![Retail Forecast Demo Repo](https://img.shields.io/badge/Retail_Forecast-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/retail-demand-forecast-demo)
+[![Webscraper.io Scraper Repo](https://img.shields.io/badge/Webscraper_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/webscraper-io-scraper)
 [![Student Todo DApp Repo](https://img.shields.io/badge/Student_Todo_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/student-todo-dapp)
-[![Election DApp Repo](https://img.shields.io/badge/Election_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/Election)
+[![Ethereum Voting DApp Repo](https://img.shields.io/badge/Ethereum_Voting_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/ethereum-voting-dapp)
 
 </div>
 
