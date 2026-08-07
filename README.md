@@ -131,7 +131,10 @@ class AboutMe:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tahasync/tahasync/main/images/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahasync/tahasync/main/images/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/tahasync/tahasync/main/images/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
+  </picture>
 </p>
 
 ---
